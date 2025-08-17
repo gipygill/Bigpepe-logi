@@ -1,0 +1,11 @@
+{
+  "name": "Big Pepe",
+  "symbol": "BIGP",
+  "description": "Big Pepe is a community-driven meme coin on Solana.",
+  "image": "https://raw.githubusercontent.com/gipygill/Bigpepe-logi/main/1000117591_optimized.png",
+  "extensions": {
+    "twitter": "https://twitter.com/",
+    "telegram": "https://t.me/",
+    "website": "https://"
+  }
+}
